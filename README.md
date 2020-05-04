@@ -1,3 +1,8 @@
+<b>The private repo where we worked on the project was created by the TA of comp 361. <br>
+This repo is replicated in order to publicize. <br>
+My contributions in this project is minor.
+</b>
+
 # TEAM 2 
 
 ### Team Members
